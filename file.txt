@@ -1,4 +1,4 @@
 hi
 vcs is vision contol management
-scm[D[D[D[D[D[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[service[C[C[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dis source code management
+scm is source code management
 new line added
